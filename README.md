@@ -2,7 +2,7 @@
 
 ### 🌐 Acesse meu portfólio:
 
-[RODRIGO CESAR]([https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.vercel.app](https://rodrigo-cesar.vercel.app/))
+[![RODRIGO CESAR]([https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.vercel.app](https://rodrigo-cesar.vercel.app/))
 
 <br>
 
